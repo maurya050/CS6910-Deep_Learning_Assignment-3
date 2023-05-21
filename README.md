@@ -27,10 +27,10 @@ Assignment_3 submission for the course Fundamentals of Deep Learning (CS6910).
          * In this .ipynb file , i have trained the vanilla model on best parameter.
         
          * I found LSTM as my best model, where we got the Highest Validation Accuracy of 56.4%.
-         
-         * And also change the google drive dataset link.
-                            
-         * Now, just run the file from the start you will get all the results mentioned.
+        
+         * And For Test Dataset we got the Accuracy of 50.8%.
+        
+         * Folder [###predictions_vanilla](https://github.com/maurya050/CS6910-Deep_Learning_Assignment-3/tree/main/predictions_vanilla "Vanilla Test Dataset prediction") contains the file 'Van_Pred.csv' with  model's predictions on all the test dataset.
         
      </div>
     </kbd>
