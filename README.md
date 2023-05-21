@@ -30,7 +30,7 @@ Assignment_3 submission for the course Fundamentals of Deep Learning (CS6910).
         
          * And For Test Dataset we got the Accuracy of 50.8%.
         
-         * Folder [###predictions_vanilla](https://github.com/maurya050/CS6910-Deep_Learning_Assignment-3/tree/main/predictions_vanilla "Vanilla Test Dataset prediction") contains the file 'Van_Pred.csv' with  model's predictions on all the test dataset.
+         * Folder [predictions_vanilla](https://github.com/maurya050/CS6910-Deep_Learning_Assignment-3/tree/main/predictions_vanilla "Vanilla Test Dataset prediction") contains the file 'Van_Pred.csv' with  model's predictions on all the test dataset.
         
      </div>
     </kbd>
