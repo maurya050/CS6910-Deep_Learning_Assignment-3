@@ -32,6 +32,39 @@ Assignment_3 submission for the course Fundamentals of Deep Learning (CS6910).
         </div>
     </kbd>
         
-   #### [predictions_vanilla](https://github.com/maurya050/CS6910-Deep_Learning_Assignment-3/tree/main/predictions_vanilla "Vanilla Test Dataset prediction") contains the file 'Van_Pred.csv' with  model's predictions on all the test dataset.
+   #### [predictions_vanilla](https://github.com/maurya050/CS6910-Deep_Learning_Assignment-3/tree/main/predictions_vanilla "Vanilla Prediction on Test Dataset") contains the file 'Van_Pred.csv' with  model's predictions on all the test dataset.
+   
+  3. [A3_Q5.ipynb](https://github.com/maurya050/CS6910-Deep_Learning_Assignment-3/blob/main/A3_Q5.ipynb "Model with Attention")
+    <kbd>
+    <div class="my-section" style= border: 1px solid #e1e4e8; "background-color: #f1f1f1; padding: 10px;">
         
+         * This file contains the code for Question 5
+        
+         * In this .ipynb file , i have trained the model with attention and then run sweeps.
+        
+         * To run the file on Google Collab at TA end, import the file and then,  change the wandb login key.
+         
+         * And also change the google drive dataset link.
+        
+         * Now, just run the file from the start you will get all the results mentioned.
+        
+        </div>
+    </kbd>
+  4. [A3_Q5_BestModel_prediction.ipynb](https://github.com/maurya050/CS6910-Deep_Learning_Assignment-3/blob/main/A3_Q5_BestModel_prediction.ipynb "Best Attention Model")
+    <kbd>
+    <div class="my-section" style= border: 1px solid #e1e4e8; "background-color: #f1f1f1; padding: 10px;">
+        
+         * This file contains the code for Question 5
+        
+         * In this .ipynb file , i have trained the model with attention on the best parameter.
+        
+         * I found GRU as my best attention model, where we got the Highest Validation Accuracy of 54.7%.
+        
+         * And For Test Dataset we got the Accuracy of 48.4%.
+        
+         * If we try to run it for more counts , it might give better results than vanilla because, 
+           it identifies many words which we couldn't identify in vanilla model.
+        
+        </div>
+    </kbd>
      
