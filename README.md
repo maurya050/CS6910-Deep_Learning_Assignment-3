@@ -84,5 +84,5 @@ Assignment_3 submission for the course Fundamentals of Deep Learning (CS6910).
  
  #### [predictions_attention](https://github.com/maurya050/CS6910-Deep_Learning_Assignment-3/tree/main/predictions_attention "Attention Prediction on Test Dataset") contains the file 'att_predict.csv' with  attention model's predictions on all the test dataset.
  
- ## Report Link:
+ ## Report Link: https://api.wandb.ai/links/cs22m083/hbxl9nod
  
