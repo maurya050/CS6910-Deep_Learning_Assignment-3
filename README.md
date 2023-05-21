@@ -67,6 +67,8 @@ Assignment_3 submission for the course Fundamentals of Deep Learning (CS6910).
     </div>
     </kbd>
     
+   #### [predictions_attention](https://github.com/maurya050/CS6910-Deep_Learning_Assignment-3/tree/main/predictions_attention "Attention Prediction on Test Dataset") contains the file 'att_predict.csv' with  attention model's predictions on all the test dataset.
+    
  5. [A3_Q5_HeatMap.ipynb](https://github.com/maurya050/CS6910-Deep_Learning_Assignment-3/blob/main/A3_Q5_HeatMap.ipynb "HeatMaps")
     <kbd>
     <div class="my-section" style= border: 1px solid #e1e4e8; "background-color: #f1f1f1; padding: 10px;">
