@@ -32,7 +32,7 @@ Assignment_3 submission for the course Fundamentals of Deep Learning (CS6910).
         </div>
     </kbd>
         
-   #### [predictions_vanilla](https://github.com/maurya050/CS6910-Deep_Learning_Assignment-3/tree/main/predictions_vanilla "Vanilla Prediction on Test Dataset") contains the file 'Van_Pred.csv' with  model's predictions on all the test dataset.
+  
    
  3. [A3_Q5.ipynb](https://github.com/maurya050/CS6910-Deep_Learning_Assignment-3/blob/main/A3_Q5.ipynb "Model with Attention")
     <kbd>
