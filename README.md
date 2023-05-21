@@ -15,7 +15,7 @@ Assignment_3 submission for the course Fundamentals of Deep Learning (CS6910).
                             
          * Now, just run the file from the start you will get all the results mentioned.
         
-     </div>
+    </div>
     </kbd>
  
  2. [A3_BestModel_Q4(a).ipynb](https://github.com/maurya050/CS6910-Deep_Learning_Assignment-3/blob/main/A3_BestModel_Q4(a).ipynb "Best Vanilla Model")
@@ -54,7 +54,7 @@ Assignment_3 submission for the course Fundamentals of Deep Learning (CS6910).
     <kbd>
     <div class="my-section" style= border: 1px solid #e1e4e8; "background-color: #f1f1f1; padding: 10px;">
         
-         * This file contains the code for Question 5
+         * This file contains the code for Question 5(c)
         
          * In this .ipynb file , i have trained the model with attention on the best parameter.
         
@@ -66,4 +66,20 @@ Assignment_3 submission for the course Fundamentals of Deep Learning (CS6910).
            it identifies many words which we couldn't identify in vanilla model.
     </div>
     </kbd>
+    
+    
+   
+    5. [A3_Q5_HeatMap.ipynb](https://github.com/maurya050/CS6910-Deep_Learning_Assignment-3/blob/main/A3_Q5_HeatMap.ipynb "HeatMaps")
+    <kbd>
+    <div class="my-section" style= border: 1px solid #e1e4e8; "background-color: #f1f1f1; padding: 10px;">
+        
+         * This file contains the code for Question 5(d)
+        
+         * In this .ipynb file , i have trained the best model(GRU) with attention on the best parameters fro Heatmaps
+        
+         * Selecting randomly 10 inputs from the Test Dataset for generating HeatMaps(shown in Wandb report)
+           
+    </div>
+    </kbd>
+    
      
