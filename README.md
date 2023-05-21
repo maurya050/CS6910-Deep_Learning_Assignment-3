@@ -50,7 +50,7 @@ Assignment_3 submission for the course Fundamentals of Deep Learning (CS6910).
     </div>
     </kbd>
     
-  4. [A3_Q5_BestModel_prediction.ipynb](https://github.com/maurya050/CS6910-Deep_Learning_Assignment-3/blob/main/A3_Q5_BestModel_prediction.ipynb "Best Attention Model")
+ 4. [A3_Q5_BestModel_prediction.ipynb](https://github.com/maurya050/CS6910-Deep_Learning_Assignment-3/blob/main/A3_Q5_BestModel_prediction.ipynb "Best Attention Model")
     <kbd>
     <div class="my-section" style= border: 1px solid #e1e4e8; "background-color: #f1f1f1; padding: 10px;">
         
@@ -67,9 +67,7 @@ Assignment_3 submission for the course Fundamentals of Deep Learning (CS6910).
     </div>
     </kbd>
     
-    
-   
-    5. [A3_Q5_HeatMap.ipynb](https://github.com/maurya050/CS6910-Deep_Learning_Assignment-3/blob/main/A3_Q5_HeatMap.ipynb "HeatMaps")
+ 5. [A3_Q5_HeatMap.ipynb](https://github.com/maurya050/CS6910-Deep_Learning_Assignment-3/blob/main/A3_Q5_HeatMap.ipynb "HeatMaps")
     <kbd>
     <div class="my-section" style= border: 1px solid #e1e4e8; "background-color: #f1f1f1; padding: 10px;">
         
