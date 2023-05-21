@@ -32,7 +32,6 @@ Assignment_3 submission for the course Fundamentals of Deep Learning (CS6910).
     </div>
     </kbd>
         
-   #### [predictions_vanilla](https://github.com/maurya050/CS6910-Deep_Learning_Assignment-3/tree/main/predictions_vanilla "Vanilla Prediction on Test Dataset") contains the file 'Van_Pred.csv' with  model's predictions on all the test dataset.
    
  3. [A3_Q5.ipynb](https://github.com/maurya050/CS6910-Deep_Learning_Assignment-3/blob/main/A3_Q5.ipynb "Model with Attention")
     <kbd>
@@ -67,7 +66,6 @@ Assignment_3 submission for the course Fundamentals of Deep Learning (CS6910).
     </div>
     </kbd>
     
-   #### [predictions_attention](https://github.com/maurya050/CS6910-Deep_Learning_Assignment-3/tree/main/predictions_attention "Attention Prediction on Test Dataset") contains the file 'att_predict.csv' with  attention model's predictions on all the test dataset.
     
  5. [A3_Q5_HeatMap.ipynb](https://github.com/maurya050/CS6910-Deep_Learning_Assignment-3/blob/main/A3_Q5_HeatMap.ipynb "HeatMaps")
     <kbd>
@@ -82,4 +80,9 @@ Assignment_3 submission for the course Fundamentals of Deep Learning (CS6910).
     </div>
     </kbd>
     
-     
+ #### [predictions_vanilla](https://github.com/maurya050/CS6910-Deep_Learning_Assignment-3/tree/main/predictions_vanilla "Vanilla Prediction on Test Dataset") contains the file 'Van_Pred.csv' with  model's predictions on all the test dataset.
+ 
+ #### [predictions_attention](https://github.com/maurya050/CS6910-Deep_Learning_Assignment-3/tree/main/predictions_attention "Attention Prediction on Test Dataset") contains the file 'att_predict.csv' with  attention model's predictions on all the test dataset.
+ 
+ ## Report Link:
+ 
