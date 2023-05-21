@@ -47,7 +47,6 @@ Assignment_3 submission for the course Fundamentals of Deep Learning (CS6910).
          * And also change the google drive dataset link.
         
          * Now, just run the file from the start you will get all the results mentioned.
-        
         </div>
     </kbd>
     
@@ -65,7 +64,6 @@ Assignment_3 submission for the course Fundamentals of Deep Learning (CS6910).
         
          * If we try to run it for more counts , it might give better results than vanilla because, 
            it identifies many words which we couldn't identify in vanilla model.
-        
         </div>
     </kbd>
      
