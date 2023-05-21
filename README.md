@@ -9,7 +9,8 @@ Assignment_3 submission for the course Fundamentals of Deep Learning (CS6910).
         
          * In this .ipynb file , i have trained the vanilla model and then run sweeps.
         
-         * To run the file at TA end, import the file and then,  change the wandb login key and just run the file from the start you will get all the results mentioned.
+         * To run the file at TA end, import the file and then,  change the wandb login key and then
+                            just run the file from the start you will get all the results mentioned.
         
      </div>
     </kbd>
