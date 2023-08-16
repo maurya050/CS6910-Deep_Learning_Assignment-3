@@ -1,5 +1,9 @@
 # CS6910-Deep_Learning_Assignment-3
 Assignment_3 submission for the course Fundamentals of Deep Learning (CS6910).
+*This repository contains the implementation of a Recurrent Neural Network (RNN) based sequence-to-sequence transliteration model , We have used Telugu language dataset from the  Aksharantar dataset and here we are concern more with Word Accuracy rather than character accuracy and We are getting Validation Word Accuracy as 56.4 %.*
+*Our focus mainly on word correctness. so, we picked our best model to  maximize validation word accuracy.*
+*Also, after some manual testing , we found Adam algorithm effective. So, the optimizer was fixed as Adam.*
+
 ##Jupyter Notebook files
 1. [A3_Q1toQ3.ipynb](https://github.com/maurya050/CS6910-Deep_Learning_Assignment-3/blob/main/A3_Q1toQ3.ipynb "Code for Question 1 to 3")
     <kbd>
